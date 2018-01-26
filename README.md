@@ -35,4 +35,4 @@ git clone https://github.com/epicLevi/TC1021.git
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/epicLevi/TC1021/blob/master/LICENSE) file for details
